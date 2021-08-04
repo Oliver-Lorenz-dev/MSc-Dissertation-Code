@@ -1,7 +1,7 @@
 MSc-Dissertation-Code
 ========================================
 This package is built as a part of the CSC8391: Research project
-for Bioinformatics.
+for Bioinformatics module
 
 Transcriptomic analysis of key drivers of prostate cancer using RNA-seq data
 ----------------------
