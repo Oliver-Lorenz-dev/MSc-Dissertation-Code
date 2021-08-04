@@ -1,6 +1,6 @@
 # DESeq2 analysis script for prostate normal prostate v embryonic (iPSC33)
 # note: the graphs produced by this script are not in the paper
-# this script produces figures 5,6 and 7 in my dissertation
+# this script produces figures 5 and 6 in my dissertation
 
 library(BiocManager)
 library(DESeq2)

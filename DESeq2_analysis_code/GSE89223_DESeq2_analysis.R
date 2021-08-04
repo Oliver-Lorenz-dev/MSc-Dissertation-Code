@@ -1,6 +1,6 @@
 # DESeq2 analysis script for prostate cancer v normal prostate
 # note: the graphs produced by this script are not in the paper
-# this script produces figures 14,15 and 16 in my dissertation
+# this script produces figures 14 and 15 in my dissertation
 
 library(BiocManager)
 library(DESeq2)
